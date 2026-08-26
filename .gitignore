@@ -1,0 +1,7 @@
+/cotton-evidence-ledger
+/*.db
+/*.db-shm
+/*.db-wal
+/.env
+/coverage.out
+/.DS_Store
